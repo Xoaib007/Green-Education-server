@@ -1,2 +1,12 @@
 [
-    
+    {
+        "id" : "01",
+        "name" : "Web Development",
+        "image" : "https://i.ibb.co/KmTbwB5/Whats-App-Image-2022-10-24-at-10-11-34-PM.jpg" ,
+        "lebel" : "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!" ,
+        "details" : "While web development  typically refers to web markup and coding, website development includes all related development tasks, such as client-side scripting, server-side scripting, server and network security configuration, eCommerce development, and content management system (CMS) development. In this guide, well cover the basics of web development, the process of creating a website, and additional resources for those who want to learn more about development — or become a developer themselves." ,
+        "price" : "2500" ,
+        "rating" : "4.8" ,
+        "duration" : "25 week"
+    },
+]
