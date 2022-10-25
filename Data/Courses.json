@@ -9,4 +9,34 @@
         "rating" : "4.8" ,
         "duration" : "25 week"
     },
+    {
+        "id" : "02",
+        "name" : "AI Machine Learning",
+        "image" : "https://i.ibb.co/KXpSzjw/Whats-App-Image-2022-10-24-at-10-11-34-PM-1.jpg" ,
+        "lebel" : "Here are the best artificial intelligence and machine learning courses offered by Great Learning and choose the best program that meets your specifications." ,
+        "details" : "Artificial intelligence is one of the fastest-growing and most exciting fields in computer science today. Great Learning's top artificial intelligence courses will give you the skills and knowledge you need to stay ahead of the curve in this rapidly-changing field. You'll learn about the latest AI research, algorithms, and applications, and gain hands-on experience with cutting-edge tools and techniques. Whether you're looking to start a career in AI or simply want to stay up-to-date on the latest developments, these courses are a great way to get started. " ,
+        "price" : "3000" ,
+        "rating" : "4.2" ,
+        "duration" : "16 week"
+    },
+    {
+        "id" : "03",
+        "name" : "Photography",
+        "image" : "https://i.ibb.co/BsYS10G/Whats-App-Image-2022-10-24-at-10-11-34-PM-2.jpg" ,
+        "lebel" : "Our expert-led photography classes will give you the skills you need to become a professional photographer, with complete training from beginner to advanced photography techniques." ,
+        "details" : "In this day and age, learning photography has never been easier. Thanks to today’s near-unbridled access to online education, aspiring photographers can learn the craft on their computers without having to spend a single cent. We’ve rounded up some of the best free online photography classes that will teach you everything you need to know. From image composition and camera settings to lighting and photo editing techniques, there’s an advanced or introductory course for you. No matter your skill level, we’ve got you covered! " ,
+        "price" : "700" ,
+        "rating" : "4.5" ,
+        "duration" : "8 week"
+    },
+    {
+        "id" : "04",
+        "name" : "App Development",
+        "image" : "https://i.ibb.co/g7xLdpW/Whats-App-Image-2022-10-24-at-10-11-34-PM-3.jpg" ,
+        "lebel" : "Start here if you are new to programming or new to Android development. These courses show you how to build Android apps using best practices recommended by Google. No programming experience needed." ,
+        "details" : "As the first course in the Android Developer Nanodegree, Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way. In this course, you'll work with instructors step-by-step to build a cloud-connected Android app, and learn best practices of mobile development, and Android development in particular. " ,
+        "price" : "2200" ,
+        "rating" : "3.8" ,
+        "duration" : "22 week"
+    } ,
 ]
