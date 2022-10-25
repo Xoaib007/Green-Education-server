@@ -39,4 +39,54 @@
         "rating" : "3.8" ,
         "duration" : "22 week"
     } ,
+    {
+        "id" : "05",
+        "name" : "UI/UX Designer",
+        "image" : "https://i.ibb.co/pxb85JL/Whats-App-Image-2022-10-24-at-10-11-35-PM.jpg" ,
+        "lebel" : "This 4-week, part-time UX/UI Design Online Crash Course will give you the knowledge and mindset to integrate UX into your next projects and open professional doors as you acquire one of 2022’s most in-demand skills." ,
+        "details" : "No matter your professional background, UX/UI Design is a versatile skill set that will support you in reaching new levels of success. Adding it to your CV is guaranteed to bring new opportunities anywhere from graphic design to sales, marketing to web development and beyond." ,
+        "price" : "1500" ,
+        "rating" : "4.8" ,
+        "duration" : "4 week"
+    },
+    {
+        "id" : "06",
+        "name" : "Data Science",
+        "image" : "https://i.ibb.co/MSYbq00/Whats-App-Image-2022-10-24-at-10-11-35-PM-1.jpg" ,
+        "lebel" : "Learn skills and tools that support data science and reproducible research, to ensure you can trust your own research results" ,
+        "details" : "There are a lot more data science courses than when I first started this page four years ago, and so there needs to now be a substantial filter to determine which courses are the best. I hope you feel confident that the courses below are truly worth your time and effort because it will take several months of learning and practice to be a data science practitioner.In addition to the top general data science course picks, I have included a separate section for more specific data science interests, like Deep Learning, SQL, and other relevant topics. These are courses with a more specialized approach and don’t cover the whole data science process, but they are still the top choices for that topic. These extra picks are good for supplementing before, after, and during the main courses. If you're more interested in just learning machine learning, then check out my complementary article on the best machine learning courses for this year. " ,
+        "price" : "3000" ,
+        "rating" : "4.9" ,
+        "duration" : "30 week"
+    },
+    {
+        "id" : "07",
+        "name" : "Digital Marketing",
+        "image" : "https://i.ibb.co/Pg84Mbt/Whats-App-Image-2022-10-24-at-10-11-35-PM-2.jpg" ,
+        "lebel" : "If you are new to digital marketing and want to get a good idea of what digital marketing is and how the different components work together, then this is a good course to follow." ,
+        "details" : "Digital marketing skills are critical not only for digital marketing professionals but for anyone working in a business with an online presence. This includes entrepreneurs, marketing managers, marketing specialists, and small business owners. If you search Google for ‘Digital Marketing Courses’ you’ll find a lot of courses covering different digital marketing disciplines. For example, there are courses that focus only on SEO or social media marketing but they don’t give you a complete picture of all digital marketing channels." ,
+        "price" : "1500" ,
+        "rating" : "4.5" ,
+        "duration" : "8 week"
+    },
+    {
+        "id" : "08",
+        "name" : "Block-chain Technology",
+        "image" : "https://i.ibb.co/0BWBPb0/Whats-App-Image-2022-10-24-at-10-11-35-PM-3.jpg" ,
+        "lebel" : "Best online courses to learn Blockchain programming from websites like Udemy, Pluralsight, Coursera, 100 Blockchains, edX, CodeCademy, Educative, and LinkedIn Learning." ,
+        "details" : "Blockchain is nothing but a set of blocks that are open for anyone and contain information and the hash of the block and some other info. Every block will store information depending on its work for instance if that block is used for money transactions it will store the information of the sender and receiver and the amount of money that is transferred. There are many uses of the blockchain not just transferring money as an example such as online voting because this is a more secure way and stock trading food production and more just to name a few. Many companies now are seeing that the blockchain is the future technology that they should adapt for a more secure way of transaction dealing with users and more and the salary for a blockchain developer can be $68k annually and can reach up to $150k for the expert developers." ,
+        "price" : "1800" ,
+        "rating" : "4.2" ,
+        "duration" : "12 week"
+    },
+    {
+        "id" : "09",
+        "name" : "Graphics Design",
+        "image" : "https://i.ibb.co/rm36bZr/Whats-App-Image-2022-10-24-at-10-11-35-PM-4.jpg" ,
+        "lebel" : "Are you looking to start your graphic design journey, or just want to take your current skills to the next level? " ,
+        "details" : "You just need to choose the educational course that best suits your current graphic design skills and your goals for further career development.We've searched for some of the best graphic design courses online to help you learn how to become a professional-level graphic designer.But, as you may know, there are many graphic design courses out there, and it can become challenging to know which course to take or which one will be the best to help you reach your graphic design goals. There are several online courses offered by universities, online course hubs, and graphic design experts, but we're looking at 16 great graphic design online courses that will help you elevate your graphic design portfolio." ,
+        "price" : "2000" ,
+        "rating" : "4.8" ,
+        "duration" : "15 week"
+    }
 ]
