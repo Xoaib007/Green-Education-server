@@ -1,6 +1,6 @@
 [
     {
-        "id" : "01",
+        "id" : "1",
         "name" : "Web Development",
         "image" : "https://i.ibb.co/KmTbwB5/Whats-App-Image-2022-10-24-at-10-11-34-PM.jpg" ,
         "lebel" : "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!" ,
@@ -10,7 +10,7 @@
         "duration" : "25 week"
     },
     {
-        "id" : "02",
+        "id" : "2",
         "name" : "AI Machine Learning",
         "image" : "https://i.ibb.co/KXpSzjw/Whats-App-Image-2022-10-24-at-10-11-34-PM-1.jpg" ,
         "lebel" : "Here are the best artificial intelligence and machine learning courses offered by Great Learning and choose the best program that meets your specifications." ,
@@ -20,7 +20,7 @@
         "duration" : "16 week"
     },
     {
-        "id" : "03",
+        "id" : "3",
         "name" : "Photography",
         "image" : "https://i.ibb.co/BsYS10G/Whats-App-Image-2022-10-24-at-10-11-34-PM-2.jpg" ,
         "lebel" : "Our expert-led photography classes will give you the skills you need to become a professional photographer, with complete training from beginner to advanced photography techniques." ,
@@ -30,7 +30,7 @@
         "duration" : "8 week"
     },
     {
-        "id" : "04",
+        "id" : "4",
         "name" : "App Development",
         "image" : "https://i.ibb.co/g7xLdpW/Whats-App-Image-2022-10-24-at-10-11-34-PM-3.jpg" ,
         "lebel" : "Start here if you are new to programming or new to Android development. These courses show you how to build Android apps using best practices recommended by Google. No programming experience needed." ,
@@ -40,7 +40,7 @@
         "duration" : "22 week"
     } ,
     {
-        "id" : "05",
+        "id" : "5",
         "name" : "UI/UX Designer",
         "image" : "https://i.ibb.co/pxb85JL/Whats-App-Image-2022-10-24-at-10-11-35-PM.jpg" ,
         "lebel" : "This 4-week, part-time UX/UI Design Online Crash Course will give you the knowledge and mindset to integrate UX into your next projects and open professional doors as you acquire one of 2022’s most in-demand skills." ,
@@ -50,7 +50,7 @@
         "duration" : "4 week"
     },
     {
-        "id" : "06",
+        "id" : "6",
         "name" : "Data Science",
         "image" : "https://i.ibb.co/MSYbq00/Whats-App-Image-2022-10-24-at-10-11-35-PM-1.jpg" ,
         "lebel" : "Learn skills and tools that support data science and reproducible research, to ensure you can trust your own research results" ,
@@ -60,7 +60,7 @@
         "duration" : "30 week"
     },
     {
-        "id" : "07",
+        "id" : "7",
         "name" : "Digital Marketing",
         "image" : "https://i.ibb.co/Pg84Mbt/Whats-App-Image-2022-10-24-at-10-11-35-PM-2.jpg" ,
         "lebel" : "If you are new to digital marketing and want to get a good idea of what digital marketing is and how the different components work together, then this is a good course to follow." ,
@@ -70,7 +70,7 @@
         "duration" : "8 week"
     },
     {
-        "id" : "08",
+        "id" : "8",
         "name" : "Block-chain Technology",
         "image" : "https://i.ibb.co/0BWBPb0/Whats-App-Image-2022-10-24-at-10-11-35-PM-3.jpg" ,
         "lebel" : "Best online courses to learn Blockchain programming from websites like Udemy, Pluralsight, Coursera, 100 Blockchains, edX, CodeCademy, Educative, and LinkedIn Learning." ,
@@ -80,7 +80,7 @@
         "duration" : "12 week"
     },
     {
-        "id" : "09",
+        "id" : "9",
         "name" : "Graphics Design",
         "image" : "https://i.ibb.co/rm36bZr/Whats-App-Image-2022-10-24-at-10-11-35-PM-4.jpg" ,
         "lebel" : "Are you looking to start your graphic design journey, or just want to take your current skills to the next level? " ,
